@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AppPatitasIdat</string>
+    <string name="valtitulo">AUTENTICACION PATITAS</string>
+    <string name="valetusuario">Ingrese su usuario</string>
+    <string name="valpassusuario">Ingrese su password</string>
+    <string name="valbtnlogin">INGRESAR</string>
+    <string name="valbtnregistrar">REGÍSTRATE</string>
+    <string name="valtituloreg">REGISTRAR USUARIO</string>
+    <string name="valetnombrereg">Ingrese su nombre</string>
+    <string name="valetapellidoreg">Ingrese su apellido</string>
+    <string name="valetemailreg">Ingrese su email</string>
+    <string name="valetcelularreg">Ingrese su celular</string>
+    <string name="valbtnregistrarse">REGISTRARSE</string>
+    <string name="valbtnirlogin">REGRESAR A LOGIN</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
